@@ -1,3 +1,3 @@
 ## My first github repository
-*made by franatrtur*
+*made by franatrtur*  
 feel free to go to [a random link](https://google.com)
